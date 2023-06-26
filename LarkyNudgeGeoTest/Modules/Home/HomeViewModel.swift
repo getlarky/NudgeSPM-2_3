@@ -12,7 +12,7 @@ class HomeViewModel: ObservableObject {
     
     private var myNudge: NudgeGeo!
     private let apiKey: String = "NVE_UaN87VhvGeonBnph2Q"
-    private let federationId: String = "testuserid"
+    private let federationId: String = "testUserIdIphone"
     
     init() {
         setupNudgeGeo()
